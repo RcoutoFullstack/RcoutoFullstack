@@ -3,9 +3,7 @@
 ## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá, seja bem-vindo(a)!</h2>
 
 </span>
-
-<p align="start">
-  
+<p align="start">  
   Sou um desenvolvedor fullstack em Python altamente qualificado e apaixonado por criar experiências digitais inspiradoras. <br>Com mais de 1 ano de experiência em desenvolvimento de Softwares, meu foco principal é aprimorar a interface do usuário <br>e a experiência do usuário. 
 
  </p>
@@ -30,7 +28,9 @@
 
 ## 💼 Contato
 <p align="start">
+  
   💌 Envie uma mensagem: ⤵️
+  
 </p>
 <p align="start">  
   <a href="https://www.linkedin.com/in/rcouto/" alt="Linkedin">
