@@ -1,8 +1,9 @@
 # <h1>Rilton Couto
+# <h2>Hello, Devs!!
+##<h3> tenho 41 anos, moro em Paulista/PE etenho meuito apreço por programação! sou iniciante no desenvolvimento de Software.
+##<h3> sou bastante proativo e sempre busco aprender e me aperfeiçoar em alguma linguagem, sempre que possível.
+##<h3> caçador de Bugs, e quanto mais eu aprendo e passo raiva, mais fico impressionado com o universo da Programação!
 
-
-
-# <h1>Olá, me chamo Rilton Couto! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 ### Habilidades
