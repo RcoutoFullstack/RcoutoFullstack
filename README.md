@@ -1,5 +1,5 @@
-<span align="center">
+<div align="center">
 
-##<img src="https://raw.githubusercontent.com/iampavandhi/master/gif"width=30px"> Olá, Sejam Bem vindos(a)!< /h2>
+<img src = "https://www.mygo.ge/uploads/blog/1584023795.jpg"width="700px" />
 
-< /span>
+</div>
