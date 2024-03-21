@@ -17,13 +17,12 @@ Sou um desenvolvedor fullstack em Python altamente qualificado e apaixonado por 
 <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Css3-%23007ACC?style=flat-square&logo=Css3&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Blender-%23007ACC?style=flat-square&logo=Blender&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-Java-%23007ACC?style=flat-square&logo=Java&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-Java-%238A4182?style=flat-square&logo=Java&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Kotlin-%23007ACC?style=flat-square&logo=Kotlin&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Sqlite-%23007ACC?style=flat-square&logo=Sqlite&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Json-%23007ACC?style=flat-square&logo=Json&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Html5-%23007ACC?style=flat-square&logo=Html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-BootStrap-%23007ACC?style=flat-square&logo=Bootstrap&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-Es6-%23007ACC?style=flat-square&logo=Es6&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Jquery-%23007ACC?style=flat-square&logo=Jquery&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Django-%23007ACC?style=flat-square&logo=Django&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Xcode-%23007ACC?style=flat-square&logo=Xcode&logoColor=white" height="25"/>
@@ -39,8 +38,6 @@ Sou um desenvolvedor fullstack em Python altamente qualificado e apaixonado por 
 <img src="https://img.shields.io/badge/-React-%23217346?style=flat-square&logo=React&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Redux-%23217346?style=flat-square&logo=Redux&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Cypress-%23217346?style=flat-square&logo=Cypress&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-Ddl-%23DD0031?style=flat-square&logo=Ddl&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-Dml-%23217346?style=flat-square&logo=Dml&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Docker-%23217346?style=flat-square&logo=Docker&logoColor=white" height="25"/>
 
 </p>
