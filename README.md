@@ -18,8 +18,8 @@ Sou um desenvolvedor fullstack em Python altamente qualificado e apaixonado por 
 <img src="https://img.shields.io/badge/-Typecript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-vuejs-%23217346?style=flat-square&logo=vuedotjs&logoColor=white" height="25"/>  
-<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-GitLab-FF6600?style=flat-square&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-Npm-%23217346?style=flat-square&logo=Npm&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-Gitlab-%23217346?style=flat-square&logo=Gitlab&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Jest-%238A4182?style=flat-square&logo=jest&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Firebase-%23F7DF1E.svg?style=flat-square&logo=firebase&logoColor=white" height="25"/>
