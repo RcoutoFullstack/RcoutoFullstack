@@ -4,19 +4,20 @@
 
 </span>
 <p align="start">  
-  Sou um desenvolvedor fullstack em Python altamente qualificado e apaixonado por criar experiências digitais inspiradoras. <br>Com mais de 1 ano de experiência em desenvolvimento de Softwares, meu foco principal é aprimorar a interface do usuário <br>e a experiência do usuário. 
+tenho 41 anos, moro em Paulista/PE e tenho muito apreço por programação! sou iniciante no desenvolvimento de Software, bastante proativo, sempre buscando aprender e me aperfeiçoar em alguma linguagem na medida do possível.
+Caçador de Bugs, quanto mais eu aprendo e passo raiva, mais fico impressionado com o universo da Programação!
+Sou um desenvolvedor fullstack em Python altamente qualificado e apaixonado por criar experiências digitais inspiradoras. Meu foco principal é aprimorar a interface e a experiência do usuário.
 
  </p>
 
 ## 💻 Technologies & Tools
 
 <p align="center">
- <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
- <img src="https://img.shields.io/badge/-Typecript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-vuejs-%23217346?style=flat-square&logo=vuedotjs&logoColor=white" height="25"/>
-
-  
+<img src="https://img.shields.io/badge/-Python-%238A4182?style=flat-square&logo=Python" height="25"/>
+<img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/-Typecript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-vuejs-%23217346?style=flat-square&logo=vuedotjs&logoColor=white" height="25"/>  
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
 <img src="https://img.shields.io/badge/-GitLab-FF6600?style=flat-square&logo=gitlab" height="25"/>
 <img src="https://img.shields.io/badge/-Jest-%238A4182?style=flat-square&logo=jest" height="25"/>
