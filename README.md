@@ -13,12 +13,11 @@ Sou um desenvolvedor fullstack em Python altamente qualificado e apaixonado por 
 ## 💻 Technologies & Tools
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Python-%23F7DF1E?style=flat-square&logo=Python&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-Python-%3670A0?style=flat-square&logo=Python&logoColor=ffdd54" height="25"/>
+<img src="https://img.shields.io/badge/-Javascript-%23323330?style=flat-square&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Css3-%231572B6?style=flat-square&logo=Css3&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Blender-%23F5792A?style=flat-square&logo=Blender&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white/>
-<img src="https://img.shields.io/badge/-Kotlin-%23007ACC?style=flat-square&logo=Kotlin&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-Kotlin-%237F52FF?style=flat-square&logo=Kotlin&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Sqlite-%23007ACC?style=flat-square&logo=Sqlite&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Json-%23007ACC?style=flat-square&logo=Json&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Html5-%23E34F26?style=flat-square&logo=Html5&logoColor=white" height="25"/>
