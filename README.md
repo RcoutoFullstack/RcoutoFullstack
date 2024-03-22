@@ -14,7 +14,7 @@ Sou um desenvolvedor fullstack em Python altamente qualificado e apaixonado por 
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-%23276DC3?style=flat-square&logo=Python&logoColor=ffdd54" height="25"/>
-<img src="https://img.shields.io/badge/-Javascript-%23323330?style=flat-square&logo=javascript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/-Css3-%231572B6?style=flat-square&logo=Css3&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Blender-%23F5792A?style=flat-square&logo=Blender&logoColor=white" height="25"/>
  
