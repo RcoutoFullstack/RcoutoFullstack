@@ -3,17 +3,16 @@
 ## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá, Seja bem-vindo(a)!</h2>
 
 </span>
-<p align="start">  
+<p align="start"> 
 
+ <br>
  
 tenho 41 anos, moro em Paulista/PE e tenho muito apreço por programação! sou iniciante no FullSatck em Python, bastante proativo, sempre buscando aprender e me aperfeiçoar em alguma linguagem na medida do possível.
 Caçador de Bugs, quanto mais eu aprendo e passo raiva, mais fico impressionado com o universo da Programação!
 
-
  </p>
 
- <br>
- 
+ <br> 
 
 ## 💻 Technologies & Tools
 
