@@ -19,7 +19,7 @@ Sou um desenvolvedor fullstack em Python altamente qualificado e apaixonado por 
 <img src="https://img.shields.io/badge/-Blender-%23F5792A?style=flat-square&logo=Blender&logoColor=white" height="25"/> 
 <img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=Kotlin&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Sqlite-gray?style=flat-square&logo=Sqlite&logoColor=light_blue" height="25"/>
-<img src="https://img.shields.io/badge/-Json-%23007ACC?style=flat-square&logo=Json&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-Json-gray?style=flat-square&logo=Json&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Html5-%23E34F26?style=flat-square&logo=Html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-BootStrap-%238511FA?style=flat-square&logo=Bootstrap&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Jquery-%230769AD?style=flat-square&logo=Jquery&logoColor=white" height="25"/>
