@@ -1,6 +1,6 @@
 <span>
 
-## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá, seja bem-vindo(a)!</h2>
+## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá, Seja bem-vindo(a)!</h2>
 
 </span>
 <p align="start">  
@@ -11,6 +11,8 @@ Caçador de Bugs, quanto mais eu aprendo e passo raiva, mais fico impressionado 
 
 
  </p>
+
+ <br>
  
 
 ## 💻 Technologies & Tools
