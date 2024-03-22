@@ -62,6 +62,7 @@ I'm new to FullSatck in Python, very proactive, always seeking to learn and impr
 <br>
 
 ### ⚙️ GitHub Analytics
+<br>
 
 <table>
   <tr>
@@ -93,6 +94,7 @@ I'm new to FullSatck in Python, very proactive, always seeking to learn and impr
 --- 
 
 ## 🏆 GitHub Profile Trophy
+<br>
 
 <p align="center">
   <a
