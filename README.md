@@ -7,7 +7,7 @@
 
  <br>
  
-tenho 41 anos, moro em Paulista/PE e tenho muito apreço por programação! sou iniciante no FullSatck em Python, bastante proativo, sempre buscando aprender e me aperfeiçoar em alguma linguagem na medida do possível.
+Tenho 41 anos, moro em Paulista/PE e possuo muito apreço por programação! Sou iniciante no FullSatck em Python, bastante proativo, sempre buscando aprender e me aperfeiçoar em alguma linguagem na medida do possível.
 Caçador de Bugs, quanto mais eu aprendo e passo raiva, mais fico impressionado com o universo da Programação!
 
  </p>
@@ -16,6 +16,7 @@ Caçador de Bugs, quanto mais eu aprendo e passo raiva, mais fico impressionado 
 
 ## 💻 Technologies & Tools
 
+<br>
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-%23276DC3?style=flat-square&logo=Python&logoColor=ffdd54" height="25"/>
 <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=black" height="25"/>
