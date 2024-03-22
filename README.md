@@ -15,7 +15,7 @@ I'm new to FullSatck in Python, very proactive, always seeking to learn and impr
 
  <br> 
 
-## 💻 <h2>Technologies & Tools
+## <h2>💻 Technologies & Tools
 
 <br>
 <p align="center">
@@ -48,7 +48,7 @@ I'm new to FullSatck in Python, very proactive, always seeking to learn and impr
 </p>
 <br>
 
-## 💼 <h2>Contact
+## <h2>💼 Contact
 <p align="start">
 <br>  
   💌 Send a message: ⤵️
@@ -61,7 +61,7 @@ I'm new to FullSatck in Python, very proactive, always seeking to learn and impr
 
 <br>
 
-### ⚙️ <h2>GitHub Analytics
+### <h2>⚙️ GitHub Analytics
 <br>
 <table>
   <tr>
@@ -93,7 +93,7 @@ I'm new to FullSatck in Python, very proactive, always seeking to learn and impr
 --- 
 <br>
 
-## 🏆 <h2>GitHub Profile Trophy
+## <h2>🏆 GitHub Profile Trophy
 <br>
 <br>
 <p align="center">
