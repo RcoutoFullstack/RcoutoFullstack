@@ -4,10 +4,14 @@
 
 </span>
 <p align="start">  
+
+ 
 tenho 41 anos, moro em Paulista/PE e tenho muito apreço por programação! sou iniciante no FullSatck em Python, bastante proativo, sempre buscando aprender e me aperfeiçoar em alguma linguagem na medida do possível.
 Caçador de Bugs, quanto mais eu aprendo e passo raiva, mais fico impressionado com o universo da Programação!
 
+
  </p>
+ 
 
 ## 💻 Technologies & Tools
 
