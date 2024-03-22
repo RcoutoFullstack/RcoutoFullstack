@@ -7,7 +7,9 @@
 
  <br>
  
-Tenho 41 anos, resido em Paulista/PE; Possuo muito apreço por programação! Sou iniciante no FullSatck em Python, bastante proativo, sempre buscando aprender e me aperfeiçoar em alguma linguagem na medida do possível.
+Tenho 41 anos, resido em Paulista/PE; Possuo muito apreço por programação!
+
+Sou iniciante no FullSatck em Python, bastante proativo, sempre buscando aprender e me aperfeiçoar em alguma linguagem na medida do possível.
 Caçador de Bugs, quanto mais eu aprendo e passo raiva, mais fico impressionado com o universo da Programação!
 
  </p>
