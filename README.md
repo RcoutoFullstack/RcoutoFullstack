@@ -7,9 +7,9 @@
 
  <br>
  
-I'm 41 years old, I live in Paulista/PE and I have a great appreciation for programming!
+<h2>I'm 41 years old, I live in Paulista/PE and I have a great appreciation for programming!
 
-I'm new to FullSatck in Python, very proactive, always seeking to learn and improve myself in some language as much as possible. Bug Hunter, the more I learn and get angry, the more impressed I am with the world of Programming!
+I'm new to FullSatck in Python, very proactive, always seeking to learn and improve myself in some language as much as possible. Bug Hunter, the more I learn and get angry, the more impressed I am with the world of Programming!< /h2>
 
  </p>
 
