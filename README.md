@@ -26,7 +26,7 @@ Sou um desenvolvedor fullstack em Python altamente qualificado e apaixonado por 
 <img src="https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=Django&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Xcode-%007ACC?style=flat-square&logo=Xcode&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=Swift&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-Krita-%203759?style=flat-square&logo=Krita&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-Krita-purple?style=flat-square&logo=Krita&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Sass-%23007ACC?style=flat-square&logo=Sass&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Gulp-%23CF4647?style=flat-square&logo=Gulp&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Less-%2B4C80?style=flat-square&logo=Less&logoColor=white" height="25"/>
