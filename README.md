@@ -49,7 +49,9 @@ I'm new to FullSatck in Python, very proactive, always seeking to learn and impr
 <br>
 
 ## 💼 Contact
+<br>
 <p align="start">
+<br>
   
   💌 Send a message: ⤵️
   
