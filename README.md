@@ -30,7 +30,7 @@ Sou um desenvolvedor fullstack em Python altamente qualificado e apaixonado por 
 <img src="https://img.shields.io/badge/-Sass-gray?style=flat-square&logo=Sass&logoColor=blue" height="25"/>
 <img src="https://img.shields.io/badge/-Gulp-%23CF4647?style=flat-square&logo=Gulp&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Less-black?style=flat-square&logo=Less&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-Grunt-%23007ACC?style=flat-square&logo=Grunt&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-Grunt-orange?style=flat-square&logo=Grunt&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Ajax-%23007ACC?style=flat-square&logo=Ajax&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Typecript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Vuejs-%23217346?style=flat-square&logo=Vuedotjs&logoColor=white" height="25"/>
