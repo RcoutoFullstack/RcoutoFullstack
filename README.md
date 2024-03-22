@@ -38,7 +38,6 @@ Sou um desenvolvedor fullstack em Python altamente qualificado e apaixonado por 
 <img src="https://img.shields.io/badge/-Cypress-%23217346?style=flat-square&logo=Cypress&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Vercel-%23000000?style=flat-square&logo=Vercel&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-Vscode-%20Code-0078d7?style=flat-square&logo=Vscode&logoColor=white" height="25"/>
  
 </p>
 <br>
