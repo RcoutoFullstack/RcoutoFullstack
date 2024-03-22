@@ -1,16 +1,15 @@
 <span>
 
-## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá, Seja bem-vindo(a)!</h2>
+## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Hello, welcome!</h2>
 
 </span>
 <p align="start"> 
 
  <br>
  
-Tenho 41 anos, resido em Paulista/PE e Possuo muito apreço por programação!
+I'm 41 years old, I live in Paulista/PE and I have a great appreciation for programming!
 
-Sou iniciante no FullSatck em Python, bastante proativo, sempre buscando aprender e me aperfeiçoar em alguma linguagem na medida do possível.
-Caçador de Bugs, quanto mais eu aprendo e passo raiva, mais fico impressionado com o universo da Programação!
+I'm new to FullSatck in Python, very proactive, always seeking to learn and improve myself in some language as much as possible. Bug Hunter, the more I learn and get angry, the more impressed I am with the world of Programming!
 
  </p>
 
