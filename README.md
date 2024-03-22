@@ -4,9 +4,9 @@
 
 </span>
 <p align="start">  
-tenho 41 anos, moro em Paulista/PE e tenho muito apreço por programação! sou iniciante no desenvolvimento de Software, bastante proativo, sempre buscando aprender e me aperfeiçoar em alguma linguagem na medida do possível.
-Caçador de Bugs, quanto mais eu aprendo e passo raiva, mais fico impressionado com o universo da Programação!
-Sou um desenvolvedor fullstack em Python altamente qualificado e apaixonado por criar experiências digitais inspiradoras. Meu foco principal é aprimorar a interface e a experiência do usuário.
+#tenho 41 anos, moro em Paulista/PE e tenho muito apreço por programação! sou iniciante no desenvolvimento de Software, bastante proativo, sempre buscando aprender e me aperfeiçoar em alguma linguagem na medida do possível.
+##Caçador de Bugs, quanto mais eu aprendo e passo raiva, mais fico impressionado com o universo da Programação!
+###Sou um desenvolvedor fullstack em Python altamente qualificado e apaixonado por criar experiências digitais inspiradoras. Meu foco principal é aprimorar a interface e a experiência do usuário.
 
  </p>
 
