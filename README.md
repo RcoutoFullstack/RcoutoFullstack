@@ -89,9 +89,9 @@ I'm new to FullSatck in Python, very proactive, always seeking to learn and impr
     </td>
   </tr>
 </table>
-<br>
 
 --- 
+<br>
 
 ## 🏆 GitHub Profile Trophy
 <br>
