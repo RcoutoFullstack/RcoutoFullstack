@@ -63,7 +63,6 @@ I'm new to FullSatck in Python, very proactive, always seeking to learn and impr
 
 ### ⚙️ GitHub Analytics
 <br>
-
 <table>
   <tr>
     <td>
@@ -90,6 +89,7 @@ I'm new to FullSatck in Python, very proactive, always seeking to learn and impr
     </td>
   </tr>
 </table>
+<br>
 
 --- 
 
