@@ -48,10 +48,10 @@ I'm new to FullSatck in Python, very proactive, always seeking to learn and impr
 </p>
 <br>
 
-## 💼 Contato
+## 💼 Contact
 <p align="start">
   
-  💌 Envie uma mensagem: ⤵️
+  💌 Send a message: ⤵️
   
 </p>
 <p align="start">  
